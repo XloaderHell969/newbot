@@ -1,0 +1,444 @@
+2023-09-25 19:16:10,861 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:16:10,861 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:16:10,945 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7ff2189508b0>
+2023-09-25 19:21:59,829 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:21:59,830 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:21:59,908 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f6b224686a0>
+2023-09-25 19:23:59,771 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:23:59,771 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:23:59,894 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7ff7cc9cc7f0>
+2023-09-25 19:31:04,221 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:31:04,221 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:31:04,313 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f3118ab0820>
+2023-09-25 19:31:58,474 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:31:58,475 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:31:58,568 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fe916ae05b0>
+2023-09-25 19:55:02,085 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:55:02,144 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:55:02,653 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8770278bb0>
+2023-09-25 19:57:21,775 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 19:57:21,776 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 19:57:22,425 - NekoRobot - INFO - [PostgreSQL] Connecting to database......
+2023-09-25 19:57:30,636 - NekoRobot - INFO - [PostgreSQL] Connection successful, session started.
+2023-09-25 19:57:31,568 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fb2ab668d30>
+2023-09-25 20:01:16,902 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 20:01:16,904 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 20:01:17,414 - NekoRobot - INFO - [PostgreSQL] Connecting to database......
+2023-09-25 20:01:29,532 - NekoRobot - INFO - [PostgreSQL] Connection successful, session started.
+2023-09-25 20:01:53,940 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-09-25 20:01:54,013 - apscheduler.scheduler - INFO - Added job "job_close" to job store "default"
+2023-09-25 20:01:54,014 - apscheduler.scheduler - INFO - Scheduler started
+2023-09-25 20:01:54,014 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-09-25 20:01:54,015 - apscheduler.scheduler - INFO - Added job "job_open" to job store "default"
+2023-09-25 20:01:54,015 - apscheduler.scheduler - INFO - Scheduler started
+2023-09-25 20:02:08,622 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f198c068d30>
+2023-09-25 20:06:19,133 - NekoRobot - INFO - Not loading: ['rss']
+2023-09-25 20:06:19,133 - NekoRobot - INFO - Modules to load: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 20:06:19,761 - NekoRobot - INFO - [PostgreSQL] Connecting to database......
+2023-09-25 20:06:31,705 - NekoRobot - INFO - [PostgreSQL] Connection successful, session started.
+2023-09-25 20:06:44,679 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-09-25 20:06:44,680 - apscheduler.scheduler - INFO - Added job "job_close" to job store "default"
+2023-09-25 20:06:44,680 - apscheduler.scheduler - INFO - Scheduler started
+2023-09-25 20:06:44,680 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2023-09-25 20:06:44,681 - apscheduler.scheduler - INFO - Added job "job_open" to job store "default"
+2023-09-25 20:06:44,681 - apscheduler.scheduler - INFO - Scheduler started
+2023-09-25 20:06:59,338 - NekoRobot - INFO - Successfully loaded modules: ['cust_filters', 'whois', 'bans', 'weather', 'approve', 'google', 'paste', 'admin', 'karma', 'alive', 'get_common_chats', 'gps', 'encrypt', 'cleaner', 'carbon', 'english', 'truth_and_dare', 'couple', 'group', 'dev', 'fonts', 'pr', 'fun', 'backups', 'disable', 'video', 'tagall', 'nightmode', 'heroku', 'math', 'rules', 'zip', 'misc', 'gettime', 'fun_strings', 'eval', 'tools', 'users', 'bug', 'dbcleanup', 'warns', 'musicals', 'locks', 'webshot', 'speed_test', 'ud', 'json', 'antiflood', 'aifunctions', 'userinfo', 'log_channel', 'welcome', 'debug', 'myinfo', 'disasters', 'blacklist_stickers', 'purge', 'reactions', 'reporting', 'sed', 'telegraph', 'muting', 'global_bans', 'afk', 'chatbot', 'memify', 'tiny', 'stickers', 'remote_cmds', 'imdb', 'modules', 'song', 'forcesub', 'blacklist', 'zombies', 'currency_converter', 'translator', 'writetool', 'blacklistusers', 'shell', 'wiki', 'ping', 'gitinfo', 'country', 'wallpaper', 'notes', 'error_handler', 'logo', 'connection']
+2023-09-25 20:06:59,339 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2023-09-25 20:07:01,264 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2023-09-25 20:07:02,633 - telethon.client.users - INFO - Phone migrated to 5
+2023-09-25 20:07:02,634 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 5
+2023-09-25 20:07:03,003 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2023-09-25 20:07:03,005 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2023-09-25 20:07:03,006 - telethon.network.mtprotosender - INFO - Connecting to 91.108.56.172:443/TcpFull...
+2023-09-25 20:07:04,116 - telethon.network.mtprotosender - INFO - Connection to 91.108.56.172:443/TcpFull complete!
+2023-09-25 20:07:07,091 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2023-09-25 20:07:07,091 - pyrogram.connection.connection - INFO - Connecting...
+2023-09-25 20:07:07,282 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2023-09-25 20:07:09,030 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2023-09-25 20:07:09,030 - pyrogram.connection.connection - INFO - Disconnected
+2023-09-25 20:07:09,195 - pyrogram.connection.connection - INFO - Connecting...
+2023-09-25 20:07:09,386 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2023-09-25 20:07:09,387 - pyrogram.session.session - INFO - NetworkTask started
+2023-09-25 20:07:10,251 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-09-25 20:07:10,252 - pyrogram.session.session - INFO - Device: CPython 3.10.12 - Pyrogram 2.0.106
+2023-09-25 20:07:10,252 - pyrogram.session.session - INFO - System: Linux 5.15.0-76-generic (en)
+2023-09-25 20:07:10,252 - pyrogram.session.session - INFO - Session started
+2023-09-25 20:07:10,253 - pyrogram.session.session - INFO - PingTask started
+2023-09-25 20:07:10,473 - pyrogram.session.session - INFO - PingTask stopped
+2023-09-25 20:07:10,474 - pyrogram.connection.connection - INFO - Disconnected
+2023-09-25 20:07:10,474 - pyrogram.session.session - INFO - NetworkTask stopped
+2023-09-25 20:07:10,475 - pyrogram.session.session - INFO - Session stopped
+2023-09-25 20:07:10,547 - pyrogram.session.auth - INFO - Start creating a new auth key on DC5
+2023-09-25 20:07:10,547 - pyrogram.connection.connection - INFO - Connecting...
+2023-09-25 20:07:10,569 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-09-25 20:07:11,629 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2023-09-25 20:07:11,630 - pyrogram.connection.connection - INFO - Disconnected
+2023-09-25 20:07:11,704 - pyrogram.connection.connection - INFO - Connecting...
+2023-09-25 20:07:11,727 - pyrogram.connection.connection - INFO - Connected! Production DC5 - IPv4
+2023-09-25 20:07:11,727 - pyrogram.session.session - INFO - NetworkTask started
+2023-09-25 20:07:11,950 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2023-09-25 20:07:11,950 - pyrogram.session.session - INFO - Device: CPython 3.10.12 - Pyrogram 2.0.106
+2023-09-25 20:07:11,950 - pyrogram.session.session - INFO - System: Linux 5.15.0-76-generic (en)
+2023-09-25 20:07:11,950 - pyrogram.session.session - INFO - Session started
+2023-09-25 20:07:11,951 - pyrogram.session.session - INFO - PingTask started
+2023-09-25 20:07:12,394 - pyrogram.dispatcher - INFO - Started 8 HandlerTasks
+2023-09-25 20:07:12,796 - NekoRobot - WARNING - Chat not found
+2023-09-25 20:07:12,798 - NekoRobot - INFO - Using long polling.
+2023-09-25 20:07:12,799 - apscheduler.scheduler - INFO - Scheduler started
+2023-09-25 20:11:43,482 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:11:47,708 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:12:13,873 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:12:13,901 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:13:13,355 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:13:15,800 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:13:19,176 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:13:21,376 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:13:29,634 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:13:30,189 - telethon.client.updates - INFO - Got difference for account updates
+2023-09-25 20:13:30,682 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:14:06,833 - telethon.client.updates - INFO - Got difference for account updates
+2023-09-25 20:14:06,895 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:14:08,461 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:16:04,158 - telethon.client.updates - INFO - Got difference for account updates
+2023-09-25 20:16:04,752 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:16:13,180 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:16:13,388 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:16:20,650 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:16:20,677 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:17:12,249 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:18:33,554 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:18:36,096 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:18:51,076 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:19:45,148 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:20:15,141 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:21:12,187 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:21:49,933 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:23:24,495 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:23:47,902 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:24:01,432 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:24:01,550 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:24:45,551 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:24:57,140 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:25:16,737 - telethon.client.updates - INFO - Got difference for account updates
+2023-09-25 20:25:16,771 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:25:16,989 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:26:23,502 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/disable.py", line 74, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:26:33,969 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:26:33,975 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:26:48,382 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:26:55,119 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:27:32,016 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:27:54,390 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:28:09,687 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:28:12,039 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:28:28,724 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:29:01,787 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:29:15,960 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:29:23,296 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:29:25,250 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:29:45,239 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:30:00,975 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:30:05,682 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:30:35,635 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:30:35,636 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:30:46,422 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:31:03,423 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:31:17,692 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:31:25,163 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:31:39,969 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:31:40,170 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:31:43,682 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:31:47,578 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:31:47,835 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:31:53,693 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:31:53,903 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:31:58,263 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:32:04,651 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:32:04,664 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:32:23,187 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:32:56,441 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:03,858 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:33:07,707 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:07,708 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:09,387 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:33:15,850 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 78, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:33:22,326 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:22,334 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:29,020 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:33:37,730 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:37,741 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:37,791 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:33:56,323 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:34:28,712 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:35:30,480 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:36:20,907 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:36:44,623 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:37:11,191 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:38:58,225 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:38:58,235 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:38:58,240 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:39:05,524 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:39:46,891 - telegram.ext.dispatcher - ERROR - An uncaught error was raised while handling the error.
+Traceback (most recent call last):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 30, in check_user
+    self.limiter.try_acquire(user)
+AttributeError: 'AntiSpam' object has no attribute 'limiter'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 567, in process_update
+    self.dispatch_error(update, exc)
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 810, in dispatch_error
+    callback(update, context)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/__main__.py", line 300, in error_callback
+    raise error
+  File "/home/xloaderhell/.local/lib/python3.10/site-packages/telegram/ext/dispatcher.py", line 548, in process_update
+    check = handler.check_update(update)
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/disable.py", line 74, in check_update
+    if SpamChecker.check_user(user_id):
+  File "/home/xloaderhell/NekoRobot/NekoRobot/modules/helper_funcs/handlers.py", line 32, in check_user
+    except BucketFullException:
+NameError: name 'BucketFullException' is not defined
+2023-09-25 20:39:51,373 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:39:51,374 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:39:59,575 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:39:59,906 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:40:04,899 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:40:06,693 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:40:06,700 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:40:11,828 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:40:16,860 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:40:40,557 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:41:29,491 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:42:28,690 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:42:47,141 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:44:01,130 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:44:09,493 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:44:30,200 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:44:36,901 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:44:47,208 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:46:40,081 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 20:47:42,394 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:48:43,772 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 20:48:43,801 - telegram.ext.dispatcher - ERROR - A promise with deactivated error handling raised an error.
+2023-09-25 21:23:41,177 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
+2023-09-25 21:25:17,067 - telethon.client.updates - INFO - Got difference for channel 1960654405 updates
